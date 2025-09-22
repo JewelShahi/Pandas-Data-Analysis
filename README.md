@@ -8,11 +8,10 @@ This repository is a personal learning hub where I explore real-world datasets, 
 
 ## 🚀 What You'll Find Here
 
-- 📊 **Exploratory Data Analysis (EDA)** on real-world datasets  
-- 🧹 **Data Cleaning & Preprocessing** techniques  
+- 🧠 **Exercises and Pandas function** 
 - 🧪 **Mini Projects** to apply Pandas to actual problems  
 - 💡 **Tips, Tricks, and Shortcuts** for efficient Pandas usage  
-- 📁 Well-documented **Jupyter/Colab Notebooks**
+- 📁 Not so well-documented **Jupyter/Colab Notebooks** 😁
 
 ---
 
